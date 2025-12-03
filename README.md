@@ -12,8 +12,13 @@ I am Currently Working On Autonomous AI Cleaning Robot . Funded By Organization 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajmahajan2151/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajmahajan.work@gmail.com) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajmahajan-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🟩 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajMahajan-Dev/RajMahajan-Dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajMahajan-Dev/RajMahajan-Dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajMahajan-Dev/RajMahajan-Dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
